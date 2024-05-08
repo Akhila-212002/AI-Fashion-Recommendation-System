@@ -9,6 +9,7 @@ In a world where the fashion industry is constantly evolving and the choices see
 
 # Limitation: 
 -> Disfigurement of faces in generated images, impacting realism and user experiences.: During output generation, it was observed that generated images frequently showcased distorted or blurry facial features. This significantly detracts from the overall image quality and realism, potentially hindering user adoption and satisfaction.
+
 -> Heavy reliance on specific prompts to achieve desired results, limiting user flexibility.: While the model demonstrates an ability to produce diverse outputs, achieving specific details or styles often requires very precise and detailed prompts. This limits user creativity and exploration, potentially making the experience less intuitive and engaging.
 
 # Result: 
